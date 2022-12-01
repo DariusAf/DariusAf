@@ -1,22 +1,9 @@
 Hi there! :postal_horn:
-I am Darius Afchar, a PhD Candidate at [@Deezer](https://github.com/deezer) working on **machine learning interpretability** and **music recommender systems**.
 
-:books: Please find my published paper and their associated github code repositories:
+I am Darius Afchar, currently pursuing a PhD at [@Deezer](https://github.com/deezer) working on **machine learning interpretability** and **music recommender systems**.
+
+:books: Please find the repositories associated with my published papers below:
+- [*"Learning Unsupervised Hierarchies of Audio Concepts"*](https://github.com/deezer/concept_hierarchy) D. Afchar, R. Hennequin, V. Guigue - ISMIR 2022
 - [*"Towards Rigorous Interpretations: ..."*](https://github.com/deezer/functional_attribution) D. Afchar, R. Hennequin, V. Guigue - ICML 2021
 - [*"Making Neural Networks Interpretable with Attribution: ..."*](https://github.com/deezer/interpretable_nn_attribution) D. Afchar, R. Hennequin - RecSys 2020
 - [*"Mesonet: a compact facial video forgery detection network"*](https://github.com/DariusAf/MesoNet) D. Afchar, V. Nozick - WIFS 2018
-
-<!--
-**DariusAf/DariusAf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
