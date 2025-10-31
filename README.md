@@ -1,8 +1,7 @@
-Hi there! :postal_horn:
-
-I am Darius Afchar, researcher at [@Deezer](https://github.com/deezer) working on **machine learning interpretability**, **music recommender systems** and **AI-generated music detection**.
+Hi there, I am Darius Afchar, researcher at [@Deezer](https://github.com/deezer) working on **machine learning interpretability**, **music recommender systems** and **AI-generated music detection**.
 
 :books: Please find the repositories associated with my published papers below:
+- [*"A Fourier Explanation of AI-music Artifacts"*](https://github.com/deezer/ismir25-ai-music-detector)  D. Afchar, K. Akesbi, G. Meseguer-Brocal, R. Hennequin - ISMIR 2025
 - [*"AI-Generated Music Detection and its Challenges"*](https://github.com/deezer/deepfake-detector)  D. Afchar, G. Meseguer-Brocal, R. Hennequin - ICASSP 2025
 - [*"Of Spiky SVDs and Music Recommendation"*](https://github.com/deezer/spiky_svd) D. Afchar, R. Hennequin, V. Guigue - RecSys 2023
 - [*"Learning Unsupervised Hierarchies of Audio Concepts"*](https://github.com/deezer/concept_hierarchy) D. Afchar, R. Hennequin, V. Guigue - ISMIR 2022
